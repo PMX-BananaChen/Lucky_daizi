@@ -1,0 +1,361 @@
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.exe
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.pdb
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\bin\Debug\Lucky.exe
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\bin\Debug\Lucky.pdb
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.Test.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\bin\Debug\Lucky.exe.config
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.Report.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\RdlCompile.cache
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\RdlCompile.compiled
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Sherry\技术学习\技术文档\C#.net后台\抽獎\東聚抽獎\Csharp抽奖程序\Lucky\obj\Debug\Lucky.ImportEmp.resources
+D:\Code\Lucky\Lucky\bin\Debug\Lucky.exe.config
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.exe
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.pdb
+D:\Code\Lucky\Lucky\bin\Debug\Lucky.exe
+D:\Code\Lucky\Lucky\bin\Debug\Lucky.pdb
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.Employee.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.ImportEmp.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.ImportHR.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.LoginForm.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.LuckyForm.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.LuckyType.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.Report.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.ResultForm.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.SetForm.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.ShowForm.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.Test.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.WinnerForm.resources
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+D:\Code\Lucky\Lucky\obj\Debug\RdlCompile.cache
+D:\Code\Lucky\Lucky\obj\Debug\RdlCompile.compiled
+D:\Code\Lucky\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+D:\Code\Lucky\Lucky\Lucky\bin\Debug\Lucky.exe.config
+D:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.exe
+D:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.pdb
+F:\Code\Lucky\Lucky\Lucky\bin\Debug\Lucky.exe.config
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.exe
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.pdb
+F:\Code\Lucky\Lucky\Lucky\bin\Debug\Lucky.exe
+F:\Code\Lucky\Lucky\Lucky\bin\Debug\Lucky.pdb
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.Report.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.Test.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\RdlCompile.cache
+F:\Code\Lucky\Lucky\Lucky\obj\Debug\RdlCompile.compiled
+F:\Code\Lucky\Lucky_IT\Lucky\bin\Debug\Lucky.exe.config
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.exe
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.pdb
+F:\Code\Lucky\Lucky_IT\Lucky\bin\Debug\Lucky.exe
+F:\Code\Lucky\Lucky_IT\Lucky\bin\Debug\Lucky.pdb
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Report.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Test.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\RdlCompile.cache
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\RdlCompile.compiled
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.UserControl1.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.test1.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Interop.SpeechLib.dll
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Form1.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.UserControl2.resources
+F:\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\bin\Debug\Lucky.exe.config
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Interop.SpeechLib.dll
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.exe
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.pdb
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\bin\Debug\Lucky.exe
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\bin\Debug\Lucky.pdb
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Employee.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Form1.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ImportEmp.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ImportHR.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.LoginForm.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.LuckyForm.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.LuckyType.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Report.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ResultForm.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.SetForm.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.ShowForm.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.Test.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.test1.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.UserControl1.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.UserControl2.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.WinnerForm.resources
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\RdlCompile.cache
+E:\F20180717\工作\Code\Lucky\Lucky_IT\Lucky\obj\Debug\RdlCompile.compiled
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\bin\Debug\Lucky.exe.config
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Interop.SpeechLib.dll
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.exe
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.pdb
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\bin\Debug\Lucky.exe
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\bin\Debug\Lucky.pdb
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.Form1.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.Report.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.Test.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.test1.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.UserControl1.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.UserControl2.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\RdlCompile.cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_IT-IT部门尾牙\Lucky\obj\Debug\RdlCompile.compiled
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\bin\Debug\Lucky.exe.config
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Interop.SpeechLib.dll
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.exe
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.pdb
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.Form1.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.Report.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.Test.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.test1.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.UserControl1.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.UserControl2.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\RdlCompile.cache
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\obj\Debug\RdlCompile.compiled
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\bin\Debug\Lucky.exe
+F:\Monica.Huang\2019-04-09  交接（小康）系统\Lucky-抽奖系统\Lucky_东聚30周年庆抽奖2\Lucky\bin\Debug\Lucky.pdb
+F:\banana\Lucky\bin\Debug\Lucky.exe.config
+F:\banana\Lucky\obj\Debug\Interop.SpeechLib.dll
+F:\banana\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+F:\banana\Lucky\obj\Debug\Lucky.exe
+F:\banana\Lucky\obj\Debug\Lucky.pdb
+F:\banana\Lucky\bin\Debug\Lucky.exe
+F:\banana\Lucky\bin\Debug\Lucky.pdb
+F:\banana\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+F:\banana\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\banana\Lucky\obj\Debug\Lucky.Employee.resources
+F:\banana\Lucky\obj\Debug\Lucky.Form1.resources
+F:\banana\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\banana\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\banana\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\banana\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\banana\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\banana\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\banana\Lucky\obj\Debug\Lucky.Report.resources
+F:\banana\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\banana\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\banana\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\banana\Lucky\obj\Debug\Lucky.Test.resources
+F:\banana\Lucky\obj\Debug\Lucky.test1.resources
+F:\banana\Lucky\obj\Debug\Lucky.UserControl1.resources
+F:\banana\Lucky\obj\Debug\Lucky.UserControl2.resources
+F:\banana\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\banana\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\banana\Lucky\obj\Debug\RdlCompile.cache
+F:\banana\Lucky\obj\Debug\RdlCompile.compiled
+F:\Primax\banana\Lucky\bin\Debug\Lucky.exe.config
+F:\Primax\banana\Lucky\bin\Debug\Lucky.exe
+F:\Primax\banana\Lucky\bin\Debug\Lucky.pdb
+F:\Primax\banana\Lucky\obj\Debug\Interop.SpeechLib.dll
+F:\Primax\banana\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+F:\Primax\banana\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.Form1.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.Report.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.Test.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.test1.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.UserControl1.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.UserControl2.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+F:\Primax\banana\Lucky\obj\Debug\Lucky.exe
+F:\Primax\banana\Lucky\obj\Debug\Lucky.pdb
+F:\Primax\banana\Lucky\obj\Debug\Lucky.DisplayDial.resources
+F:\Primax\banana\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+F:\Lucky_YearEnd\Lucky\bin\Debug\Lucky.exe.config
+F:\Lucky_YearEnd\Lucky\obj\Debug\Interop.SpeechLib.dll
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.exe
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.pdb
+F:\Lucky_YearEnd\Lucky\bin\Debug\Lucky.exe
+F:\Lucky_YearEnd\Lucky\bin\Debug\Lucky.pdb
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.DisplayDial.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Employee.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Form1.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ImportEmp.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ImportHR.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.LoginForm.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.LuckyForm.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.LuckyType.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Report.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ResultForm.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.SetForm.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ShowForm.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Test.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.test1.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.UserControl1.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.UserControl2.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.WinnerForm.resources
+F:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+D:\Lucky_YearEnd\Lucky\bin\Debug\Lucky.exe.config
+D:\Lucky_YearEnd\Lucky\obj\Debug\Interop.SpeechLib.dll
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.exe
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.pdb
+D:\Lucky_YearEnd\Lucky\bin\Debug\Lucky.exe
+D:\Lucky_YearEnd\Lucky\bin\Debug\Lucky.pdb
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.DisplayDial.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Employee.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Form1.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ImportEmp.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ImportHR.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.LoginForm.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.LuckyForm.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.LuckyType.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Report.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ResultForm.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.SetForm.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.ShowForm.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.Test.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.test1.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.UserControl1.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.UserControl2.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.WinnerForm.resources
+D:\Lucky_YearEnd\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+D:\袋子抽奖\Lucky_daizi\Lucky\bin\Debug\Lucky.exe.config
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Interop.SpeechLib.dll
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.exe
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.pdb
+D:\袋子抽奖\Lucky_daizi\Lucky\bin\Debug\Lucky.exe
+D:\袋子抽奖\Lucky_daizi\Lucky\bin\Debug\Lucky.pdb
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.DisplayDial.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.Employee.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.Form1.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.ImportEmp.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.ImportHR.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.LoginForm.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.LuckyForm.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.LuckyType.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.Report.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.ResultForm.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.SetForm.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.ShowForm.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.Test.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.test1.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.UserControl1.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.UserControl2.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.WinnerForm.resources
+D:\袋子抽奖\Lucky_daizi\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+D:\ESG\Lucky_daizi\Lucky\bin\Debug\Lucky.exe.config
+D:\ESG\Lucky_daizi\Lucky\obj\Debug\Interop.SpeechLib.dll
+D:\ESG\Lucky_daizi\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+D:\ESG\Lucky_daizi\Lucky\obj\Debug\Lucky.exe
+D:\ESG\Lucky_daizi\Lucky\obj\Debug\Lucky.pdb
+D:\Lucky_daizi\Lucky\bin\Debug\Lucky.exe.config
+D:\Lucky_daizi\Lucky\bin\Debug\Lucky.exe
+D:\Lucky_daizi\Lucky\bin\Debug\Lucky.pdb
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.csprojResolveAssemblyReference.cache
+D:\Lucky_daizi\Lucky\obj\Debug\Interop.SpeechLib.dll
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.csproj.ResolveComReference.cache
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.DisplayDial.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.EmployeeGet.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.Employee.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.Form1.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.ImportEmp.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.ImportHR.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.LoginForm.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.LuckyForm.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.LuckyType.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.Properties.Resources.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.Report.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.ResultForm.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.SetForm.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.ShowForm.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.Test.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.test1.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.UserControl1.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.UserControl2.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.WinnerForm.resources
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.csproj.GenerateResource.Cache
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.exe
+D:\Lucky_daizi\Lucky\obj\Debug\Lucky.pdb

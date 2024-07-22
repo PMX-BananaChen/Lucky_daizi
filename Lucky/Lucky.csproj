@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{4D8BA138-3A44-41C9-B106-18CA765D1456}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Lucky</RootNamespace>
+    <AssemblyName>Lucky</AssemblyName>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>bin\Debug\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=9.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.IO.Log" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ControlClickEventArgs.cs" />
+    <Compile Include="CusPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DataAccess.cs" />
+    <Compile Include="DisplayDial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DisplayDial.Designer.cs">
+      <DependentUpon>DisplayDial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeGet.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeGet.Designer.cs">
+      <DependentUpon>EmployeeGet.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Employee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employee.Designer.cs">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Factory.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportEmp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportEmp.Designer.cs">
+      <DependentUpon>ImportEmp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ImportHR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ImportHR.Designer.cs">
+      <DependentUpon>ImportHR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LDDataSet.cs">
+      <DependentUpon>LDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LDDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>LDDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm.Designer.cs">
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LuckyForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LuckyForm.Designer.cs">
+      <DependentUpon>LuckyForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LuckyType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LuckyType.Designer.cs">
+      <DependentUpon>LuckyType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="DisplayDial.resx">
+      <DependentUpon>DisplayDial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeGet.resx">
+      <DependentUpon>EmployeeGet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employee.resx">
+      <DependentUpon>Employee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportEmp.resx">
+      <DependentUpon>ImportEmp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ImportHR.resx">
+      <DependentUpon>ImportHR.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LoginForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LuckyForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>LuckyForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LuckyType.resx">
+      <DependentUpon>LuckyType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.rdlc">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Report.resx">
+      <DependentUpon>Report.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ResultForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SetForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>SetForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShowForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ShowForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Test.resx">
+      <DependentUpon>Test.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="test1.resx">
+      <DependentUpon>test1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UserControl2.resx">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WinnerForm.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>WinnerForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="LDDataSet.xsc">
+      <DependentUpon>LDDataSet.xsd</DependentUpon>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LDDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>LDDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="LDDataSet.xss">
+      <DependentUpon>LDDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="PublicClass.cs" />
+    <Compile Include="Report.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Report.Designer.cs">
+      <DependentUpon>Report.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ResultForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ResultForm.Designer.cs">
+      <DependentUpon>ResultForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RoundPanel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="RunFont.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SetForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SetForm.Designer.cs">
+      <DependentUpon>SetForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShowForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShowForm.Designer.cs">
+      <DependentUpon>ShowForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SpeechSynthesizer.cs" />
+    <Compile Include="Test.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Test.Designer.cs">
+      <DependentUpon>Test.cs</DependentUpon>
+    </Compile>
+    <Compile Include="test1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="test1.Designer.cs">
+      <DependentUpon>test1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserControl2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UserControl2.Designer.cs">
+      <DependentUpon>UserControl2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UserHelper.cs" />
+    <Compile Include="Winner.cs" />
+    <Compile Include="WinnerForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinnerForm.Designer.cs">
+      <DependentUpon>WinnerForm.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bglogin.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgreg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bglucky.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgresult.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgset.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bgshowjp.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BJ003.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024_09.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1024_11.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <None Include="Resources\1.png" />
+    <Content Include="Resources\10.png" />
+    <None Include="Resources\Tymphany 2.png" />
+    <None Include="Resources\title1.png" />
+    <None Include="Resources\title11.png" />
+    <None Include="Resources\bgshowjp1.jpg" />
+    <None Include="Resources\bgresult1.jpg" />
+    <None Include="Resources\bgresult2.jpg" />
+    <None Include="Resources\MainB.png" />
+    <None Include="Resources\close2.png" />
+    <None Include="Resources\StartChoose.png" />
+    <None Include="Resources\Primax.jpg" />
+    <None Include="Resources\Menu.png" />
+    <None Include="Resources\Button2-Start.png" />
+    <None Include="Resources\Button3-Start.png" />
+    <None Include="Resources\Button3-Menu.png" />
+    <None Include="Resources\Button3-Close.png" />
+    <None Include="Resources\Button4-Start.png" />
+    <None Include="Resources\Button4-Menu.png" />
+    <None Include="Resources\Button4-Close.png" />
+    <None Include="Resources\Button4-Again.png" />
+    <None Include="Resources\Button4-End.png" />
+    <None Include="Resources\Button4-Stop.png" />
+    <None Include="Resources\Birth.png" />
+    <None Include="Resources\Button4-OK.png" />
+    <None Include="Resources\Primax2.jpg" />
+    <None Include="Resources\Bk.jpg" />
+    <None Include="Resources\9.png" />
+    <None Include="Resources\Background.png" />
+    <None Include="Resources\OK2.png" />
+    <None Include="Resources\Again.png" />
+    <None Include="Resources\Menus.png" />
+    <None Include="Resources\Ok.png" />
+    <None Include="Resources\starts.png" />
+    <None Include="Resources\stops.png" />
+    <None Include="Resources\2.png" />
+    <None Include="Resources\3.png" />
+    <None Include="Resources\4.png" />
+    <None Include="Resources\5.png" />
+    <None Include="Resources\6.png" />
+    <None Include="Resources\7.png" />
+    <None Include="Resources\8.png" />
+    <None Include="Resources\Bk1.png" />
+    <None Include="Resources\start3.png" />
+    <None Include="Resources\menu3.png" />
+    <None Include="Resources\again3.png" />
+    <None Include="Resources\stop3.png" />
+    <None Include="Resources\Bk.png" />
+    <None Include="Resources\Bk5.jpg" />
+    <None Include="Resources\yideng.jpg" />
+    <None Include="Resources\yideng.png" />
+    <None Include="Resources\yideng1.png" />
+    <None Include="Resources\yideng5.png" />
+    <None Include="Resources\B.jpg" />
+    <None Include="Resources\yideng10.png" />
+    <Content Include="Sound\ding.wav" />
+    <Content Include="Sound\finish.wav" />
+    <Content Include="Sound\musi.wav" />
+    <Content Include="Sound\s.wav" />
+    <Content Include="Sound\sha.wav" />
+    <Content Include="Sound\sound.wav" />
+    <Content Include="Sound\space.wav" />
+    <None Include="Resources\838.jpg" />
+    <None Include="Resources\6638.png" />
+    <Content Include="Resources\award.png" />
+    <None Include="Resources\default-logo.gif" />
+    <None Include="Resources\left.jpg" />
+    <None Include="Resources\right.bmp" />
+    <None Include="Resources\bg2.png" />
+    <None Include="Resources\bg21.png" />
+    <None Include="Resources\picture.png" />
+    <None Include="Resources\picture1.png" />
+    <None Include="Resources\start.png" />
+    <None Include="Resources\stop.png" />
+    <None Include="Resources\stop1.png" />
+    <None Include="Resources\stop2.png" />
+    <Content Include="Resources\用户管理.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="SpeechLib">
+      <Guid>{C866CA3A-32F7-11D2-9602-00C04F8EE628}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>4</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
